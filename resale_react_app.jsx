@@ -42,7 +42,7 @@ export default function ResaleShop() {
             is first-come, first-served.
           </p>
           <p className="mt-3 text-sm text-gray-500">
-            To purchase, email: <span className="font-medium">yourname@email.com</span>
+            To purchase, email: <span className="font-medium">premierwithandrea@gmail.com</span>
           </p>
         </header>
 
